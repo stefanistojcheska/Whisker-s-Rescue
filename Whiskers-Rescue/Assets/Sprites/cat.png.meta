@@ -11,6 +11,9 @@ TextureImporter:
   - first:
       213: 7196534093254501055
     second: cat_2
+  - first:
+      213: 5076971892968362947
+    second: cat_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,15 +109,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cat-jump
+      name: cat_0
       rect:
         serializedVersion: 2
-        x: 77
-        y: 93
-        width: 130
-        height: 130
+        x: 30
+        y: 41
+        width: 112
+        height: 87
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -128,15 +131,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat-sit
+      name: cat_1
       rect:
         serializedVersion: 2
-        x: 230
-        y: 92
-        width: 126
-        height: 132
+        x: 190
+        y: 37
+        width: 112
+        height: 86
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,15 +153,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cat-walk
+      name: cat_2
       rect:
         serializedVersion: 2
-        x: 383
-        y: 92
-        width: 138
-        height: 132
+        x: 350
+        y: 41
+        width: 112
+        height: 87
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -171,11 +174,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: cat_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 41
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39507a907057640800000000000000
+      internalID: 5076971892968362947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 794615eccbd50cf46bc3d48fefbab02c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -185,9 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      cat-jump: 1075993247170539406
-      cat-sit: 3463857228526754693
-      cat-walk: 7196534093254501055
+      cat_0: 1075993247170539406
+      cat_1: 3463857228526754693
+      cat_2: 7196534093254501055
+      cat_3: 5076971892968362947
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

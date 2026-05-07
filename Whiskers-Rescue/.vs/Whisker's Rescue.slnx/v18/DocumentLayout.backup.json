@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\Whisker\u0027s Rescue\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\whisker\u0027s rescue\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\whisker\u0027s rescue\\assets\\scripts\\gameover\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameover\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\projects\\whisker\u0027s rescue\\assets\\scripts\\spikes\\kill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikes\\kill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "D:\\Projects\\Whisker\u0027s Rescue\\Assets\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "D:\\Projects\\Whisker\u0027s Rescue\\Assets\\Scripts\\PlayerMovement.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Title": "Restart.cs",
+              "DocumentMoniker": "D:\\Projects\\Whisker\u0027s Rescue\\Assets\\Scripts\\GameOver\\Restart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOver\\Restart.cs",
+              "ToolTip": "D:\\Projects\\Whisker\u0027s Rescue\\Assets\\Scripts\\GameOver\\Restart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOver\\Restart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T20:43:12.583Z",
+              "WhenOpened": "2026-05-07T14:26:04.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kill.cs",
+              "DocumentMoniker": "D:\\Projects\\Whisker\u0027s Rescue\\Assets\\Scripts\\Spikes\\Kill.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spikes\\Kill.cs",
+              "ToolTip": "D:\\Projects\\Whisker\u0027s Rescue\\Assets\\Scripts\\Spikes\\Kill.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spikes\\Kill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:21:44.753Z",
               "EditorCaption": ""
             }
           ]
