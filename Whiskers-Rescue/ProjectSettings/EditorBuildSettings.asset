@@ -17,5 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/GameOver.unity
     guid: bad5cc89f2185c54aad9c12abb02bbcd
+  - enabled: 1
+    path: Assets/Levels/Win.unity
+    guid: cbccf8b35f6251641b8806fa4ef6539d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

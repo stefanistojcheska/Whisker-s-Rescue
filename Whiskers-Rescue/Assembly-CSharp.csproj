@@ -51,10 +51,12 @@
     <Compile Include="Assets\Scripts\GameOver\giveUp.cs" />
     <Compile Include="Assets\Scripts\Lore\TextAppear.cs" />
     <Compile Include="Assets\Scripts\Lore\FollowCamera.cs" />
+    <Compile Include="Assets\Scripts\GameOver\WinCondition.cs" />
     <Compile Include="Assets\Scripts\Rooms\Door.cs" />
     <Compile Include="Assets\Scripts\Spikes\Kill.cs" />
     <Compile Include="Assets\Scripts\GameOver\Restart.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Rooms\Exit.cs" />
     <Compile Include="Assets\Scripts\Menu\Start.cs" />
     <Compile Include="Assets\Scripts\Menu\Quit.cs" />
     <Compile Include="Assets\Scripts\Core\CameraControler.cs" />

@@ -1,14 +1,13 @@
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Kill : MonoBehaviour
+public class WinCondition : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
-            SceneManager.LoadScene("GameOver");
+            SceneManager.LoadScene("Win");
         }
     }
 }
